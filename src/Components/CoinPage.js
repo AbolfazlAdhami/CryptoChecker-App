@@ -1,7 +1,7 @@
 import React from "react";
 
 import Wrapper from "../HOC/Wrapper";
-import { useLocation, useParams } from "react-router";
+import { useLocation } from "react-router";
 import styled from "styled-components";
 
 const Container = styled.div`
